@@ -13,7 +13,7 @@ You can also add multi-media content, like images or video. This way, you can te
 
 Click on the "Binder" button below to launch an interactive session with Jupyter, right on your browser. Magic!
 
-[![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/barbagroup/Caminos/master)
+[![Binder](https://mybinder.org/badge.svg)](https://github.com/sateeshperi/Caminos/main?urlpath=lab)
 
 Once the application launches (it can take a minute, depending on demand), you'll see the three lessons, with a little book icon next to them. Click on a lesson to start playing with it.
 
